@@ -30,7 +30,7 @@ python -m pip install numpy matplotlib scikit-learn
 Run the script from the project directory:
 
 ```bash
-python Code.py
+python code.py
 ```
 
 The script generates the synthetic dataset, calculates the LOF scores, and saves the visualization as `lof_figure9.png`.
